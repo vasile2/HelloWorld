@@ -7,3 +7,17 @@ function main() {
     var c = a + b;
     console.log(c);
 }
+
+function addMain() {
+    var a = 5;
+    var b = 5;
+    var c = a + b;
+    console.log(c);
+}
+
+function addMain2() {
+    var a = 5;
+    var b = 5;
+    var c = a + b;
+    console.log(c);
+}
