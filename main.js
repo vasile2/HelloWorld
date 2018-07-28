@@ -7,3 +7,9 @@ function main() {
     var c = a + b;
     console.log(c);
 }
+
+function main9() {
+    var a = 5;
+    var b = a;
+    console.log(c);
+}
